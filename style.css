@@ -69,3 +69,6 @@
     right: 50%;
     
 }
+@media (max-width:400px){
+    .card{
+        diplay:block !important;}}
